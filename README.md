@@ -1,0 +1,2 @@
+# javascriptVariety
+youaresourcecode/javascriptVariety
